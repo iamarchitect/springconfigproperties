@@ -1,0 +1,17 @@
+{
+  "greater": ["on or after","more than","greater than"],
+  "less": ["on or before","less than"],
+  "range": ["between","in between"],
+  "condition": ["and","or","but"],
+  "from": ["from"],
+  "till": ["till","to"],
+  "numberPattern": ["\\d+"],
+  "datePattern_US": [
+    {"mmddyyyy": "(1[0-2]|0?[1-9])[-/\\s](3[01]|[12]\\d|0?[1-9])([-/\\s](\\d{2,4})?)"},
+    {"mmdd": "(1[0-2]|0?[1-9])\\s?[/-]\\s?(3[01]|[12]\\d|0?[1-9])"}
+  ],
+  "datePattern_EN": [],
+  "dateVariables": ["today","yesterday"],
+  "datePhrases": ["next day","next week","last week","this week","next month","last month","this month"],
+  "domainEntityTokens":["NPI","SSN","riskscore"]
+}

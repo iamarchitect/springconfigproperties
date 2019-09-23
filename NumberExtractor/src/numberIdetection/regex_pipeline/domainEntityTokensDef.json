@@ -1,0 +1,5 @@
+{
+  "NPI":{"maxsize":10},
+  "SSN":{"maxsize":9},
+  "riskscore":{"maxsize":3}
+}
