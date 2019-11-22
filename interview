@@ -1,3 +1,14 @@
 https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
 https://www.educba.com/nlp-interview-questions/
 https://onlinecoursetutorials.com/interview-questions/natural-language-processing-interview-questions-and-answers/
+
+
+====================
+ow will you cluster short text tweets, what problems you expect to face during this process?
+What is the significance of TF-IDF?
+What are the trade-offs between statistical and rule based machine translation?
+What is the difference between shallow parsing and dependency parsing?
+What are the trade offs between supervised and unsupervised methods specific to NLP problems like word sense disambiguation or machine translation etc.
+How would you approach a problem in NLP which is very easily solved for English (where you have abundant resources like Wordnet, Dictionaries, Sense tagged and parallel corpora) for other resource deprived languages like Hindi, Marathi etc. ?
+What are the linguistic properties that are invariant across languages?
+======================
